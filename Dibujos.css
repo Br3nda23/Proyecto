@@ -1,0 +1,186 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.TituloD{
+    color: rgba(6, 23, 69, 0.914);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgba(255, 204, 196, 0.056);
+    border-radius: 20px 20px ;
+    border-bottom: 5px solid rgba(77, 82, 132, 0.547);
+    border-top: 5px solid rgb(31, 21, 142);
+    margin: -3px 0px -29px 0px;
+}
+
+.caja1{
+    width: 50%;
+    background-color: rgba(238, 216, 184, 0.689);
+    margin: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+    border: 3px solid grey;
+    box-shadow: 0px 0px 10px 4px grey;
+}
+
+.TC1{
+    font-family: Impact;
+    font-weight: 100;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.txtC1{
+    color: rgb(17, 11, 47);
+    font-family: sans-serif;
+    padding: 20px;
+    padding-bottom:0px;
+    padding-left: 30px;
+    font-weight: 700;
+}
+
+.txtC2{
+    font-family: sans-serif;
+    padding: 20px;
+    padding-left: 30px;
+    font-weight: 900;
+}
+
+.NombArt{
+    color: rgb(127, 28, 28);
+    padding: 10px;
+    text-align: center;
+    font-weight: 900;
+    font-family: serif;
+}
+
+.D1{
+    width: 200px;
+    border-radius: 70px;
+    margin: 20px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 10px 1px grey;
+    border-bottom: 20px solid white;
+}
+
+.Dib1{
+    transition: 1s;
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 20px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 10px 1px grey;
+    border-bottom: 40px solid white;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+.Dib2{
+    transition: 1s;
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 20px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 10px 1px grey;  
+
+}
+
+.Dib1:hover{
+    transition: 1s;
+    height: 210px;
+    width: 210px;
+    border: 3px solid grey;
+}
+
+.Dib2:hover{
+    transition: 1s;
+    height: 210px;
+    width: 210px;
+    border: 3px solid grey;
+}
+
+.Buscador{
+    box-shadow: 0px 0px 10px 1px gray;
+    padding-left:10px ;
+    width: 90%;
+    background-color: rgb(255, 255, 255);
+    border-bottom:3px solid rgba(108, 108, 108, 0.437);
+    border-top: 3px solid grey;
+    border-radius: 0px 0px 20px 20px;
+    margin:none;
+    margin-left: 66px;
+}
+
+.Letra{
+    margin-right: 1000px;
+    margin: 10px;
+    border-radius: 20px;
+    height: 50px;
+    width: 100px;
+    background-color: rgb(164, 169, 178);
+    text-align: center;
+    color: black;
+    transition: 1s;
+    border: 3px solid rgb(176, 176, 178);
+}
+
+.Letra:hover{
+    height: 60px;
+    width: 110px;
+    background-color: rgb(231, 231, 231);
+    transition: 1s;
+}
+
+.letraL{
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: rgb(152, 38, 38);
+    transition: 1s;
+}
+.letraL:hover{
+    transition: 1s;
+    color: rgb(150, 166, 255);
+}
+
+.subTB{
+    text-shadow:0px 2px 3px black;
+    padding: 9px;
+    color: rgb(3, 0, 60);
+    font-family:'Arial Narrow Bold', sans-serif;
+    font-weight: 1px;
+    text-align: justify;
+}
+
+.Flecha-iz1{
+    border-radius: 100%;
+    margin: 10px;
+    width: 0; 
+    height: 0; 
+    border-top: 20px solid transparent; 
+    border-bottom: 20px solid transparent; 
+    border-right: 20px solid rgb(169, 244, 252);
+}
+
+.Flecha-der{
+    border-radius: 100%;
+    margin: 10px;
+    width: 0; 
+    height: 0; 
+    border-top: 20px solid transparent; 
+    border-bottom: 20px solid transparent; 
+    border-left: 20px solid rgb(169, 242, 252);
+}
+
+.reservados{
+    color: blue;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.reservadosComp{
+    text-align: center;
+}

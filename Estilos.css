@@ -1,0 +1,98 @@
+.TituloEst{
+    font-family: sans-serif;
+    color: rgb(42, 124, 197);
+    text-align: center;
+    font-size: 40px;
+}
+
+.Linea{
+    padding-top: 1px;
+    margin-top: 1px;
+    height: 10px;
+    background-color: rgb(116, 116, 171);
+    border: none;
+    border-radius: 0px 0px 20px 20px ;
+}
+
+.fond{
+    width: 100%;
+    height: 2000px;
+    background-color: rgb(237, 244, 250);
+}
+
+h3{
+    color: rgb(137, 12, 12);
+    font-family: sans-serif;
+    padding: 20px;
+    background-color: cadetblue;
+    width: 80px;
+    margin: 20px;
+    border-radius: 0px 0px 40px 40px;
+    border: 2px solid;
+    box-shadow: 0 0 10px 1px rgba(128, 128, 128, 0.41);
+}
+
+.Nom{
+    text-shadow: 0 3px 2px rgba(0, 0, 0, 0.271);
+    font-family: sans-serif;
+    font-weight: 600;
+    padding: 20px;
+    color: rgb(98, 163, 84);
+    border-bottom: 3px solid ;
+    width:1200px;
+    padding-bottom: 2px;
+    margin-left: 30px;
+    border-radius: 5px;
+    box-shadow: 0px;
+}
+
+.perfil{
+    width: 200px;
+    border-radius: 10000px;
+    height: 200px;
+    box-shadow: 0px 0px 8px 2px grey;
+    border: 3px solid rgba(66, 57, 78, 0.279);
+    margin: 10px;
+}
+
+.SubNom{
+    margin: 85px;
+    margin-top: 2px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: rgba(9, 20, 40, 0.488);
+}
+
+.Real{
+    margin-top: 1px;
+    color: rgb(13, 82, 84);
+    font-family: sans-serif;
+    background-color: cadetblue;
+    width: 140px;
+    height: 60px;
+    border-radius: 0px 0px 40px 40px ;
+    border: 2px solid rgba(141, 143, 162, 0.314);
+    box-shadow: 0 0 10px 1px rgba(128, 128, 128, 0.41);
+}
+
+.img{
+    margin-right: 450px;
+    width: 200px;
+    margin-bottom:0;
+}
+
+.Dibujos{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.349);
+}
+
+.Linea2{
+    margin-right: 900px;
+    height: 2px;
+    border: none;
+    background-color: rgb(142, 175, 164);
+    border-radius: 0 0 20px 20px;
+    width: 1300px;
+}

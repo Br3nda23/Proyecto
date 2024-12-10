@@ -1,0 +1,96 @@
+.A1{
+    width: 50%;
+    background-color: antiquewhite;
+    margin: 20px;
+    margin-left: 10px;
+    border-radius: 20px;
+    border: 3px solid rgb(171, 129, 129);
+    box-shadow: 0px 0px 9px 1px grey;
+}
+
+.Imagen{
+    width:140px;
+    height: 150px;
+    border-radius: 500px;
+    border: 3px solid grey;
+    margin: 10px;
+    margin-left: 30px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 9px 1px grey;
+
+}
+
+.Imagen2{
+    width: 150px;
+    border-radius: 10000px;
+    border: 2px solid grey;
+    margin: 20px;
+}
+
+.NombreA{
+    color: rgba(206, 71, 38, 0.829);
+    margin-left:90px;
+    margin-top: 40px;
+    font-family: Impact;
+    font-weight: 100;
+    margin-right: 20px;
+}
+
+.NombArt{
+    color: red;
+    padding: 10px;
+}
+
+.Descrip{
+    margin: 10px;
+    font-family: sans-serif;
+}
+
+.ArtistasDesc{
+    border: 2px solid grey;
+    width: 98%;
+    background-color: rgba(236, 231, 231, 0.727);
+    margin: 10px ;
+    border-radius: 20px 0px 20px 0px;
+}
+
+.contx{
+    font-family: sans-serif;
+    padding: 10px;
+    color: rgb(32, 88, 130);
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.contx:hover{
+    transform: scale(1.03);
+    transition: 1s;
+    background: rgba(0, 0, 0, 0.1);
+    text-shadow: 0px 10px 2px black;
+}
+
+.txtArt{
+    color: rgb(87, 87, 87);
+    font-weight: 700;
+    font-family: sans-serif;
+    padding: 10px;
+    transition: 1s;
+    border-radius: 20px;
+}
+
+.txtArt:hover{
+    transform: scale(1.03);
+    transition: 1s;
+    background: rgba(0, 0, 0, 0.1);
+    text-shadow: 0px 8px 2px rgb(255, 255, 255);
+}
+
+.reservados{
+    color: blue;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.reservadosComp{
+    text-align: center;
+}
